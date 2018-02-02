@@ -2,12 +2,14 @@
 ## NewsMood : September 21, 2017 at 01:00 AM  EST
 ## Sentiment analysis of the twitter activity of various news oulets.
 •	According to VADER, the average compound score of all the media sources had negative scores except one -  CNN. The score of BBC and CBS is almost equal in negativity likewise FOX and New York Times.
+![myimage-alt-tag](https://github.com/ruchichandra/NewsMood/blob/master/Images/Sentiment%20Analysis%20of%20Media%20Tweets.png)
 
 •	While plotting the scores one by one for each media source, I have noticed that BBC has most negative score. CBS and Fox news are kind of equal in positive and negative scores which can be seen from their average compound score as well. CNN has more positivity.
 
-•	By doing this analysis over a period of time, I have reached to a conclusion that at certain times the score of all the media sources other than BBC has gain a better score if not positive. •	BBC World news was consistently the most negative of the media sources.
+•	By doing this analysis over a period of time, I have reached to a conclusion that at certain times the score of all the media sources other than BBC has gain a better score if not positive. 
+![myimage-alt-tag](https://github.com/ruchichandra/NewsMood/blob/master/Images/Overall%20Media%20Sentiment.png)
 
-
+•	BBC World news was consistently the most negative of the media sources.
 
 
 ```python
